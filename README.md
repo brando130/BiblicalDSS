@@ -28,6 +28,6 @@ Example:
 ]
 ```
 
-## LICENSE
+## License
 
 MIT
