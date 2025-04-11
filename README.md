@@ -26,3 +26,8 @@ Example:
   },
   ...
 ]
+```
+
+## LICENSE
+
+MIT
